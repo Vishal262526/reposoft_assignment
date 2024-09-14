@@ -1,0 +1,1 @@
+enum CustomFontFamily { poppins, supermercadoOne }

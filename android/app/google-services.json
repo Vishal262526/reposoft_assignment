@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804836309789",
+    "project_id": "reposfot-assignment",
+    "storage_bucket": "reposfot-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804836309789:android:29015f8042966a24653ff4",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW-GQ48iasIB3BNfe8ssMQiAD1WwLaASY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
